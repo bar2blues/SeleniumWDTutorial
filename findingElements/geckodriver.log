@@ -1,0 +1,114 @@
+1595255980824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofile8cTP7E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595255984169	Marionette	INFO	Listening on port 62602
+1595255984448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-ce69c6e576ea900a006b.js, line 239: TypeError: can't access property "dataset", document.querySelector(...) is null
+1595256005557	Marionette	INFO	Stopped listening on port 62602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595270563947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofile8PefCi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595270568265	Marionette	INFO	Listening on port 55517
+1595270568682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595270608757	Marionette	INFO	Stopped listening on port 55517
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595340116408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofileRVo1TJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595340120003	Marionette	INFO	Listening on port 49327
+1595340120044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595340150586	Marionette	INFO	Stopped listening on port 49327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595342150911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofile9GCyEY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595342156713	Marionette	INFO	Listening on port 51521
+1595342156988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-a45ebbea491e1104a316.js, line 239: TypeError: can't access property "dataset", document.querySelector(...) is null
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-a45ebbea491e1104a316.js, line 239: TypeError: can't access property "dataset", document.querySelector(...) is null
+1595342188784	Marionette	INFO	Stopped listening on port 51521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595342591744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofile2TnzHY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595342597361	Marionette	INFO	Listening on port 52131
+1595342597674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595343218244	Marionette	INFO	Stopped listening on port 52131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595343639444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofileWU7siv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595343642642	Marionette	INFO	Listening on port 52965
+1595343643089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-a45ebbea491e1104a316.js, line 239: TypeError: can't access property "dataset", document.querySelector(...) is null
+1595343671628	Marionette	INFO	Stopped listening on port 52965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595343728865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofilem0QUlZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595343731965	Marionette	INFO	Listening on port 53107
+1595343731991	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "can't access property \"getElementsWithGrid\", node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1595343790859	Marionette	INFO	Stopped listening on port 53107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595343817331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofileID9IRB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595343820862	Marionette	INFO	Listening on port 53221
+1595343820959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595343885349	Marionette	INFO	Stopped listening on port 53221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595426784983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FEDERI~1\\AppData\\Local\\Temp\\rust_mozprofilecdYc78"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1595426788754	Marionette	INFO	Listening on port 53197
+1595426789117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595426801197	Marionette	INFO	Stopped listening on port 53197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
